@@ -2,7 +2,7 @@
   <div class="">
     <MarketBanner />
     <!-- Header -->
-    <!-- <TheHeader /> -->
+    <Header />
 
     <!-- Main Content -->
     <!-- <main class="flex-grow"> -->
@@ -14,4 +14,6 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+import Header from '@/components/layout/Header.vue'
+</script>

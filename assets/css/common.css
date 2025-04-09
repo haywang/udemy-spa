@@ -890,3 +890,170 @@ body.ud-keyboard-navigation-in-use
 .ud-btn-icon-round {
   border-radius: 100rem;
 }
+
+.ud-text-input {
+  border: 1px solid #9194ac;
+  border-radius: 0.4rem;
+  -webkit-appearance: none;
+  display: block;
+  padding: 0 1.6rem;
+  width: 100%;
+  background-color: var(--color-white);
+  /* stylelint-disable-next-line selector-no-vendor-prefix */
+  /* stylelint-disable-next-line selector-no-vendor-prefix */
+  /* stylelint-disable-next-line no-descending-specificity */
+}
+.ud-text-input::-moz-placeholder {
+  color: #595c73;
+  opacity: 1;
+}
+.ud-text-input::-webkit-input-placeholder {
+  color: #595c73;
+}
+.ud-text-input:hover:not(:disabled) {
+  background-color: var(--color-gray-100);
+}
+.ud-text-input:focus:not(:disabled) {
+  background-color: var(--color-white);
+  border-color: #6d28d2;
+  /* stylelint-disable-next-line unit-disallowed-list */
+  box-shadow: inset 0 0 0 0.5px #6d28d2;
+}
+.ud-text-input-small {
+  height: 3.4rem;
+}
+.ud-text-input-medium {
+  height: 4rem;
+}
+.ud-text-input-large {
+  height: 4.8rem;
+}
+
+@container ud-content-area (min-width: 553px) {
+}
+@container ud-content-area (min-width: 653px) {
+}
+@container ud-content-area (min-width: 1153px) {
+}
+@container ud-content-area (min-width: 1153px) {
+}
+@container ud-content-area (min-width: 1232px) {
+}
+@container ud-content-area (min-width: 553px) {
+}
+@container ud-content-area (min-width: 653px) {
+}
+@container ud-content-area (min-width: 933px) {
+}
+@container ud-content-area (min-width: 553px) {
+}
+@container ud-content-area (min-width: 653px) {
+}
+@container ud-content-area (min-width: 933px) {
+}
+@container ud-content-area (min-width: 1153px) {
+}
+.ud-text-input-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 0;
+  background-color: var(--color-white);
+}
+.ud-text-input-container .ud-text-input {
+  box-shadow: none !important;
+  flex: 1;
+  background-color: transparent !important;
+}
+.ud-text-input-container .ud-text-input:nth-child(2) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 0;
+  padding-left: 0;
+}
+.ud-text-input-container .ud-text-input:nth-last-child(3) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 0;
+  padding-right: 0;
+}
+.ud-text-input-container:hover {
+  background-color: var(--color-gray-100);
+}
+.ud-text-input-container .ud-icon {
+  margin: 0 0.8rem;
+}
+.ud-text-input-container .ud-text-input-box {
+  border: 1px solid #9194ac;
+  border-radius: 0.4rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+.ud-text-input-container .ud-text-input:focus ~ .ud-text-input-box {
+  background-color: var(--color-white);
+  border-color: #6d28d2;
+  /* stylelint-disable-next-line unit-disallowed-list */
+  box-shadow: inset 0 0 0 0.5px #6d28d2;
+}
+body.ud-keyboard-navigation-in-use
+  .ud-text-input-container
+  .ud-text-input:focus {
+  outline: 0 !important;
+}
+body.ud-keyboard-navigation-in-use
+  .ud-text-input-container
+  .ud-text-input:focus
+  ~ .ud-text-input-box {
+  /* stylelint-disable unit-disallowed-list */
+  box-shadow:
+    0 0 0 2px var(--color-white),
+    0 0 0 4px var(--color-purple-400),
+    0 0 2px 5px var(--color-purple-150);
+  /* stylelint-enable unit-disallowed-list */
+}
+
+.ud-form-group {
+  min-width: 18rem;
+  max-width: 60rem;
+}
+.ud-form-label {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding-bottom: 0.8rem;
+  min-height: 2.8rem;
+}
+.ud-form-label-tag,
+.ud-form-note {
+  color: #595c73;
+}
+.ud-form-label-tag {
+  flex: 1;
+  text-align: right;
+}
+.ud-form-note {
+  display: flex;
+  align-items: center;
+  padding-top: 0.8rem;
+}
+.ud-form-label-tag,
+.ud-form-group-validation-icon {
+  margin-left: 0.8rem;
+}
+.ud-form-group-error .ud-form-label,
+.ud-form-group-error .ud-form-note {
+  color: #d51c0f;
+}
+.ud-form-group-error .ud-text-input:not(:focus),
+.ud-form-group-error
+  .ud-text-input-container
+  .ud-text-input:not(:focus)
+  ~ .ud-text-input-box,
+.ud-form-group-error select:not(:focus),
+.ud-form-group-error textarea:not(:focus) {
+  border-color: #d51c0f;
+}
