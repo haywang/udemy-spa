@@ -1,21 +1,27 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import tailwindcss from '@tailwindcss/vite'
-
 export default defineNuxtConfig({
-  compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
+
+  // 启用组件自动导入
+  components: {
+    dirs: ['~/components', '~/components/layout', '~/components/course']
+  },
+
+  // CSS配置
   css: ['~/assets/css/main.css'],
   vite: {
     plugins: [tailwindcss()]
   },
-  modules: [
-    '@nuxt/content',
-    '@nuxt/eslint',
-    '@nuxt/fonts',
-    '@nuxt/icon',
-    '@nuxt/image',
-    '@nuxt/scripts',
-    '@nuxt/test-utils',
-    '@nuxt/ui'
-  ]
+
+  // 应用配置
+  app: {
+    head: {
+      title: 'Udemy Course',
+      meta: [
+        { charset: 'utf-8' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+      ]
+    }
+  }
 })

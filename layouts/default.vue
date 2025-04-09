@@ -4,9 +4,11 @@
     <TheHeader />
 
     <!-- Main Content -->
-    <main id="main-content-anchor" class="container mx-auto px-4 py-8">
+    <main>
       <slot />
     </main>
+
+    <!-- Footer 可以后续添加 -->
   </div>
 </template>
 
