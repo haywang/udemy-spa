@@ -45,6 +45,9 @@
           :description="courseDescription"
           :target-audience="targetAudience"
         />
+
+        <!-- Related Courses Section -->
+        <CourseComparison :courses="relatedCourses" />
       </div>
 
       <!-- Right Column - Course Card -->
@@ -86,6 +89,7 @@ import CourseObjectives from './CourseObjectives.vue'
 import TopicNavigation from './TopicNavigation.vue'
 import CourseCurriculum from './CourseCurriculum.vue'
 import CourseDescription from './CourseDescription.vue'
+import CourseComparison from './CourseComparison.vue'
 
 const requirements = [
   'Un qualsiasi dispositivo Computer o Smartphone che navighi online'
@@ -175,6 +179,71 @@ const targetAudience = [
 ]
 
 const expandedSections = ref([1]) // First section expanded by default
+
+const relatedCourses = [
+  {
+    id: 1,
+    title: 'Crypto Condensed: The Complete Guide To Bitcoin',
+    url: '/course/bitcoin-for-beginners/',
+    duration: '7 total hours',
+    lastUpdated: '2/2024',
+    badges: [
+      {
+        type: 'premium',
+        text: 'Premium',
+        icon: 'verified'
+      }
+    ],
+    rating: 4.2,
+    studentCount: 31349,
+    currentPrice: 14.99,
+    originalPrice: 59.99,
+    image: 'https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg',
+    imageSrcSet:
+      'https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg 1x, https://img-c.udemycdn.com/course/100x100/380970_b5b4_42.jpg 2x'
+  },
+  {
+    id: 2,
+    title: 'Blockchain and Bitcoin Fundamentals',
+    url: '/course/blockchain-and-bitcoin-fundamentals/',
+    duration: '3 total hours',
+    lastUpdated: '4/2025',
+    badges: [
+      {
+        type: 'bestseller',
+        text: 'Bestseller'
+      }
+    ],
+    rating: 4.6,
+    studentCount: 132623,
+    currentPrice: 22.99,
+    originalPrice: 129.99,
+    image: 'https://img-c.udemycdn.com/course/50x50/1151036_64b6_6.jpg',
+    imageSrcSet:
+      'https://img-c.udemycdn.com/course/50x50/1151036_64b6_6.jpg 1x, https://img-c.udemycdn.com/course/100x100/1151036_64b6_6.jpg 2x'
+  },
+  {
+    id: 3,
+    title: 'Bitcoin Advanced Level: Transactions',
+    url: '/course/bitcoin-advanced-level-transactions/',
+    duration: '1.5 total hours',
+    lastUpdated: '4/2025',
+    badges: [
+      {
+        type: 'premium',
+        text: 'Premium',
+        icon: 'verified'
+      }
+    ],
+    rating: 4.7,
+    studentCount: 5885,
+    currentPrice: 13.99,
+    originalPrice: 64.99,
+    image: 'https://img-c.udemycdn.com/course/50x50/1413060_e8d6.jpg',
+    imageSrcSet:
+      'https://img-c.udemycdn.com/course/50x50/1413060_e8d6.jpg 1x, https://img-c.udemycdn.com/course/100x100/1413060_e8d6.jpg 2x'
+  }
+]
 </script>
 
 <style scoped>
