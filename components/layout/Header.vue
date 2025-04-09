@@ -489,6 +489,7 @@
         id="u125-popper-content--15"
         data-testid="description"
         style="top: 100%; right: 0px"
+        v-if="false"
       >
         <div class="popper-module--animation-wrapper--tM0UK">
           <div
@@ -541,6 +542,7 @@
         aria-labelledby="u125-popper-trigger--16"
         data-testid="popup"
         style="top: 100%; right: 0px"
+        v-if="false"
       >
         <div class="popper-module--animation-wrapper--tM0UK">
           <div
