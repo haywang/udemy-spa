@@ -41,17 +41,10 @@
         <CourseRequirements :requirements="requirements" />
 
         <!-- Description Section -->
-        <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
-          <h2 class="mb-4 text-2xl font-bold">Description</h2>
-          <div class="prose max-w-none">
-            <p class="text-gray-700">
-              This comprehensive web development course is designed to take you
-              from beginner to professional. You'll learn all the tools and
-              technologies needed to build modern, responsive websites.
-            </p>
-            <!-- Add more description content here -->
-          </div>
-        </div>
+        <CourseDescription
+          :description="courseDescription"
+          :target-audience="targetAudience"
+        />
       </div>
 
       <!-- Right Column - Course Card -->
@@ -92,10 +85,93 @@ import CourseRequirements from './CourseRequirements.vue'
 import CourseObjectives from './CourseObjectives.vue'
 import TopicNavigation from './TopicNavigation.vue'
 import CourseCurriculum from './CourseCurriculum.vue'
+import CourseDescription from './CourseDescription.vue'
 
 const requirements = [
   'Un qualsiasi dispositivo Computer o Smartphone che navighi online'
   // Add more requirements here as needed
+]
+
+const courseDescription = {
+  title:
+    'Come funziona Coinbase per comprare Bitcoin ed altre criptovalute per guadagnarci?',
+  intro:
+    'Guarda in questa serie di Tutorial come funziona Coinbase per comprare, vendere e trasferire criptovalute.',
+  earnInfo:
+    'Guarda anche come guadagnare con Coinbase Criprovalute con Coinbase Earn: te lo spiego in maniera semplice.',
+  coinbaseIntro:
+    'Coinbase è un ottimo modo facile per iniziare con le criptovalute quindi se ti va iscriviti a questo corso e segui le semplici lezioni.',
+  inviteInfo:
+    "All'interno del corso troverai anche un invito per guadagnare e ti insegnerò anche come generare il tuo invito personale.",
+  topicsIntro: 'Ecco gli argomenti che vedrai in questo corso su Coinbase:',
+  topics: [
+    {
+      text: 'Introduzione: cosa è ed a cosa serve Coinbase?',
+      hasBreak: true
+    },
+    {
+      text: 'Come Ti Registri Gratis Passo Passo a Coinbase?',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'Ecco I Documenti E Dati Che Ti Verranno Richiesti Al Momento Della Tua Registrazione: Come Devi Fare Passo Passo?',
+      hasBreak: true
+    },
+    {
+      text: 'Guarda La Panoramica delle Funzionalita Iniziali Di Coinbase...',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'Cosa Vedrai Appena Entrato In Coinbase?',
+      hasBreak: true
+    },
+    {
+      text: 'Carta Di Credito Prepagata Visa Ecco Come Richiederla In Coinbase?',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'PAC: Piano Di Accumulo E Portafoglio Crypto In Coinbase',
+      hasBreak: true
+    },
+    {
+      text: 'Nella Pratica Come Si Fa Con Gli Acquisti Programmati E Piani Di Accumulo In Coinbase?',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'Acquisto Cripto Con Conti Corrente, IBAN, Bonifici o Carte Prepagate: Come Si Fa?',
+      hasBreak: true
+    },
+    {
+      text: 'Funzionalità Della Scheda Prezzi In Coibase: Cosa Ci Puoi Fare?',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'Come Si Trasferiscono Criptovalute Da Coinbase Ad Altri Wallet Esterni?',
+      hasBreak: true
+    },
+    {
+      text: 'Come Si Ricevono Cryptovalute da altri wallet esterni al tuo Wallet Coinbase?',
+      isHighlight: true,
+      hasBreak: true
+    },
+    {
+      text: 'Cassaforte Coinbase: Cosa è E Cosa Ci Puoi Fare?'
+    }
+  ],
+  conclusion:
+    "Ci vediamo dall'altra parte, iscriviti per non commettere gli errori che il 90% fa sempre quando inizia con Coinbase.",
+  callToAction: "Ci vediamo dall'altra parte nella prima lezione!"
+}
+
+const targetAudience = [
+  'Chiunque Voglia Imparare A Utilizzare Coinbase Senza Stress',
+  'Chiunque Voglia Imparare Il Metodo Più Facile Per Comprare BITCOIN',
+  'Chiunque Voglia Imparare Il Metodo Più Facile Per Comprare Altre Cirptovalute'
 ]
 
 const expandedSections = ref([1]) // First section expanded by default
