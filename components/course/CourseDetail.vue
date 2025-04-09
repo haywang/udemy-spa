@@ -31,28 +31,7 @@
       <!-- Left Column - Course Content -->
       <div class="lg:col-span-2">
         <!-- What you'll learn Section -->
-        <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
-          <h2 class="mb-4 text-2xl font-bold">What you'll learn</h2>
-          <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
-            <div class="flex items-start space-x-2">
-              <svg
-                class="h-6 w-6 text-green-500"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M5 13l4 4L19 7"
-                ></path>
-              </svg>
-              <span>Build modern responsive websites</span>
-            </div>
-            <!-- Add more learning points here -->
-          </div>
-        </div>
+        <CourseObjectives />
 
         <!-- Course Content Section -->
         <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
@@ -124,7 +103,7 @@
 </template>
 
 <script setup>
-// 后续会导入各个子组件
+import CourseObjectives from './CourseObjectives.vue'
 </script>
 
 <style scoped>

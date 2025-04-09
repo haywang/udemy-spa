@@ -9,4 +9,4 @@ alwaysApply: true
 - You can @ files here
 - You can use markdown but dont have to
 
-我在使用Nuxt和tailwind css重构一个静态页面，我把静态页面的放在./origin目录，我在使用cursor 工具辅助我重构，可以一步步组件化重构页面，并且做到响应式，样式必须用tailwind css写，不需要逻辑，只需要静态页面。代码注释用英语，chat输出用中文。
+我在使用Nuxt和tailwind css重构一个静态页面，我把静态页面的放在./origin目录，我在使用cursor 工具辅助我重构，可以一步步组件化重构页面，并且做到响应式，样式必须用tailwind css写，不需要逻辑，只需要静态页面。特别注意，文案要使用./origin/home.html中的文案。代码注释用英语，chat输出用中文。
