@@ -1,7 +1,7 @@
 <template>
   <button
     type="button"
-    class="flex h-16 items-center px-3 text-gray-400 hover:text-gray-600"
+    class="border-primary-400 mx-4 flex h-10 w-10 items-center justify-center rounded-md border-1 text-gray-400 hover:text-gray-600"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"

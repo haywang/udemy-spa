@@ -16,7 +16,7 @@
       <ul class="m-0 list-none p-0">
         <li v-for="(category, index) in categories" :key="index">
           <button
-            class="w-full px-4 py-2 text-left text-sm transition-colors hover:bg-gray-50 focus:bg-gray-50 focus:outline-none"
+            class="hover:text-primary-400 hover:bg-primary-100 flex h-full items-center px-4 py-2 text-sm text-gray-500"
             @click="selectCategory(category)"
           >
             {{ category.name }}

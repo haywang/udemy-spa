@@ -6,7 +6,7 @@
         <CourseBreadcrumb :categories="breadcrumbData" />
 
         <!-- 课程预览 -->
-        <CoursePreview :previewImage="previewImage" />
+        <!-- <CoursePreview :previewImage="previewImage" /> -->
 
         <!-- 课程信息 -->
         <CourseInfo

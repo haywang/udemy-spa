@@ -34,11 +34,6 @@
           </svg>
         </div>
       </div>
-
-      <!-- 预览文本 -->
-      <span class="absolute bottom-4 left-4 text-lg font-medium text-white">
-        Preview this course
-      </span>
     </button>
   </div>
 </template>
