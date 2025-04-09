@@ -38,14 +38,7 @@
         <CourseCurriculum />
 
         <!-- Requirements Section -->
-        <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
-          <h2 class="mb-4 text-2xl font-bold">Requirements</h2>
-          <ul class="list-inside list-disc space-y-2 text-gray-700">
-            <li>Basic understanding of HTML and CSS</li>
-            <li>A computer with internet access</li>
-            <!-- Add more requirements here -->
-          </ul>
-        </div>
+        <CourseRequirements :requirements="requirements" />
 
         <!-- Description Section -->
         <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
@@ -93,9 +86,19 @@
 </template>
 
 <script setup>
+import { ref, computed } from 'vue'
+import courseData from '@/data/courseContent.json'
+import CourseRequirements from './CourseRequirements.vue'
 import CourseObjectives from './CourseObjectives.vue'
 import TopicNavigation from './TopicNavigation.vue'
 import CourseCurriculum from './CourseCurriculum.vue'
+
+const requirements = [
+  'Un qualsiasi dispositivo Computer o Smartphone che navighi online'
+  // Add more requirements here as needed
+]
+
+const expandedSections = ref([1]) // First section expanded by default
 </script>
 
 <style scoped>
