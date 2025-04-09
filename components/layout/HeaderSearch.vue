@@ -1,40 +1,30 @@
 <template>
-  <div class="relative ml-4 max-w-2xl flex-1">
-    <label class="sr-only" for="search-input">Search for anything</label>
-    <form @submit.prevent="handleSubmit" class="relative flex items-center">
-      <input
-        id="search-input"
-        v-model="searchQuery"
-        type="text"
-        name="q"
-        class="focus:border-primary-500 focus:ring-primary-500 w-full rounded-lg border border-gray-300 py-2 pr-10 pl-4 text-sm focus:ring-1 focus:outline-none"
-        placeholder="Search for anything"
-        autocomplete="off"
-        role="combobox"
-        aria-autocomplete="both"
-        aria-expanded="false"
-      />
-      <button
-        type="submit"
-        class="absolute top-1/2 right-2 -translate-y-1/2 p-1 text-gray-400 hover:text-gray-600"
-        :disabled="!searchQuery"
-      >
+  <div class="flex h-full flex-1 items-center px-4">
+    <div
+      class="relative flex h-12 w-full max-w-[600px] items-center rounded-[999px] border border-gray-400 bg-gray-50 focus-within:border-gray-600"
+    >
+      <button class="flex h-full items-center justify-center px-4">
         <svg
-          class="h-5 w-5"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
+          stroke-width="1.5"
           stroke="currentColor"
+          class="h-5 w-5 text-gray-600"
         >
           <path
             stroke-linecap="round"
             stroke-linejoin="round"
-            stroke-width="2"
-            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+            d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
           />
         </svg>
       </button>
-    </form>
+      <input
+        type="text"
+        placeholder="Search for anything"
+        class="h-full flex-1 bg-transparent pr-4 text-sm outline-none placeholder:text-gray-600"
+      />
+    </div>
   </div>
 </template>
 

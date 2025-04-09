@@ -1,34 +1,30 @@
 <template>
-  <nav class="relative ml-4" aria-label="Categories">
-    <!-- Categories Button -->
+  <div class="relative h-full">
     <button
-      class="px-4 py-2 text-sm hover:text-gray-900 focus:outline-none"
+      class="hover:text-primary-700 flex h-full items-center px-4 text-sm"
       :aria-expanded="isOpen"
-      @click="toggleDropdown"
     >
-      Categories
+      Explore
     </button>
 
     <!-- Dropdown Menu -->
     <div
       v-if="isOpen"
       ref="dropdownRef"
-      class="absolute top-full left-0 z-50 mt-1 w-64 rounded-md bg-white shadow-lg"
+      class="absolute top-full left-0 z-50 mt-1 w-64 rounded-lg bg-white py-2 shadow-lg"
     >
-      <div class="py-2">
-        <ul class="m-0 list-none p-0">
-          <li v-for="(category, index) in categories" :key="index">
-            <button
-              class="w-full px-4 py-2 text-left text-sm hover:bg-gray-100 focus:bg-gray-100 focus:outline-none"
-              @click="selectCategory(category)"
-            >
-              {{ category.name }}
-            </button>
-          </li>
-        </ul>
-      </div>
+      <ul class="m-0 list-none p-0">
+        <li v-for="(category, index) in categories" :key="index">
+          <button
+            class="w-full px-4 py-2 text-left text-sm transition-colors hover:bg-gray-50 focus:bg-gray-50 focus:outline-none"
+            @click="selectCategory(category)"
+          >
+            {{ category.name }}
+          </button>
+        </li>
+      </ul>
     </div>
-  </nav>
+  </div>
 </template>
 
 <script setup>
@@ -43,8 +39,10 @@ const categories = ref([
   { name: 'Business' },
   { name: 'Finance & Accounting' },
   { name: 'IT & Software' },
-  { name: 'Office Productivity' }
-  // Add more categories as needed
+  { name: 'Office Productivity' },
+  { name: 'Design' },
+  { name: 'Marketing' },
+  { name: 'Personal Development' }
 ])
 
 const toggleDropdown = () => {

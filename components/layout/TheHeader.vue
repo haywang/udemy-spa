@@ -1,25 +1,48 @@
 <template>
-  <header class="flex items-center border-b border-gray-200 bg-white px-6 py-4">
-    <!-- Skip to content button -->
-    <SkipToContent />
+  <header class="border-b border-gray-200">
+    <nav
+      class="mx-auto flex h-16 max-w-[1340px] items-center justify-between px-4"
+    >
+      <!-- Left Section -->
+      <div class="flex items-center gap-2">
+        <!-- Logo -->
+        <HeaderLogo />
 
-    <!-- Logo -->
-    <HeaderLogo />
+        <!-- Categories -->
+        <HeaderCategories />
 
-    <!-- Categories Navigation -->
-    <HeaderCategories />
+        <!-- Search -->
+        <HeaderSearch />
+      </div>
 
-    <!-- Search Bar -->
-    <HeaderSearch />
+      <!-- Right Section -->
+      <div class="flex items-center">
+        <!-- Business -->
+        <HeaderBusinessLink />
 
-    <!-- Right side content placeholder -->
-    <div class="flex-1"></div>
+        <!-- Teaching -->
+        <HeaderTeachLink />
+
+        <!-- Shopping Cart -->
+        <HeaderCart />
+
+        <!-- Auth Buttons -->
+        <HeaderAuth />
+
+        <!-- Language Selector -->
+        <HeaderLanguage />
+      </div>
+    </nav>
   </header>
 </template>
 
 <script setup>
-import SkipToContent from './SkipToContent.vue'
 import HeaderLogo from './HeaderLogo.vue'
 import HeaderCategories from './HeaderCategories.vue'
 import HeaderSearch from './HeaderSearch.vue'
+import HeaderBusinessLink from './HeaderBusinessLink.vue'
+import HeaderTeachLink from './HeaderTeachLink.vue'
+import HeaderCart from './HeaderCart.vue'
+import HeaderAuth from './HeaderAuth.vue'
+import HeaderLanguage from './HeaderLanguage.vue'
 </script>

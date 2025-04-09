@@ -1,5 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import tailwindcss from '@tailwindcss/vite'
+// import tailwindcss from '@tailwindcss/vite'
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
@@ -9,10 +9,20 @@ export default defineNuxtConfig({
   },
 
   // CSS配置
-  css: ['~/assets/css/main.css'],
-  vite: {
-    plugins: [tailwindcss()]
-  },
+  // css: ['~/assets/css/main.css'],
+  modules: [
+    '@nuxt/content',
+    '@nuxt/eslint',
+    '@nuxt/fonts',
+    '@nuxt/icon',
+    '@nuxt/image',
+    '@nuxt/scripts',
+    '@nuxt/test-utils',
+    '@nuxtjs/tailwindcss'
+  ],
+  // vite: {
+  //   plugins: [tailwindcss()]
+  // },
 
   // 应用配置
   app: {
@@ -23,5 +33,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
       ]
     }
-  }
+  },
+
+  compatibilityDate: '2025-04-09'
 })
