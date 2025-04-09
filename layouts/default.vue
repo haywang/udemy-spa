@@ -1,20 +1,17 @@
 <template>
-  <div class="flex min-h-screen flex-col bg-gray-50">
+  <div class="">
+    <MarketBanner />
     <!-- Header -->
-    <TheHeader />
+    <!-- <TheHeader /> -->
 
     <!-- Main Content -->
-    <main class="flex-grow">
-      <slot />
-    </main>
+    <!-- <main class="flex-grow"> -->
+    <slot />
+    <!-- </main> -->
 
     <!-- Footer -->
-    <TheFooter />
+    <!-- <TheFooter /> -->
   </div>
 </template>
 
-<script setup>
-import { defineComponent } from 'vue'
-import TheHeader from '~/components/layout/TheHeader.vue'
-import TheFooter from '~/components/layout/TheFooter.vue'
-</script>
+<script setup></script>
