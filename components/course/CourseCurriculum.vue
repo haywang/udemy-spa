@@ -15,7 +15,7 @@
         <button
           type="button"
           @click="expandAll"
-          class="text-sm font-semibold transition-colors duration-200 hover:bg-gray-50"
+          class="text-sm font-semibold text-purple-600 hover:text-purple-700"
         >
           <span>{{
             isAllExpanded ? 'Collapse all sections' : 'Expand all sections'
@@ -24,11 +24,11 @@
       </div>
 
       <!-- Course Sections -->
-      <div>
+      <div class="space-y-2">
         <div
           v-for="section in courseData.sections"
           :key="section.id"
-          class="border-b last:border-b-0"
+          class="rounded-lg bg-gray-50"
         >
           <span
             :id="'accordion-panel-' + section.id"
@@ -39,44 +39,42 @@
 
           <!-- Section Header -->
           <div
-            class="flex w-full cursor-pointer items-center justify-between p-4 transition-colors duration-200 hover:bg-gray-50"
-            :class="{ 'bg-gray-50': expandedSections.includes(section.id) }"
+            class="flex w-full cursor-pointer items-center p-4 transition-colors duration-200 hover:bg-gray-100"
+            :class="{ 'bg-gray-100': expandedSections.includes(section.id) }"
             @click="toggleSection(section.id)"
           >
-            <h3 class="flex-1">
-              <button
-                type="button"
-                :aria-expanded="expandedSections.includes(section.id)"
-                class="w-full text-left"
-              >
-                <span class="text-base font-medium">{{ section.title }}</span>
-                <span class="ml-2 hidden text-sm text-gray-600 md:inline-block">
-                  {{ section.content }}
-                </span>
-              </button>
-            </h3>
             <svg
               aria-hidden="true"
               focusable="false"
-              class="h-5 w-5 transform text-gray-600 transition-transform duration-200"
+              class="h-5 w-5 flex-shrink-0 text-gray-600 transition-transform duration-200"
               :class="{ 'rotate-180': expandedSections.includes(section.id) }"
             >
               <use xlink:href="#icon-expand"></use>
             </svg>
+            <div class="ml-4 flex flex-1 items-center justify-between">
+              <div class="flex-1">
+                <h3 class="text-base font-medium">{{ section.title }}</h3>
+                <p class="mt-1 text-sm text-gray-600">{{ section.content }}</p>
+              </div>
+              <div class="ml-4 text-sm text-gray-600">
+                {{ section.lectures.length }} lectures
+              </div>
+            </div>
           </div>
 
           <!-- Section Content -->
-          <div v-show="expandedSections.includes(section.id)" role="group">
-            <ul class="m-0 list-none divide-y p-0">
+          <div
+            v-show="expandedSections.includes(section.id)"
+            role="group"
+            class="border-t border-gray-200"
+          >
+            <ul class="divide-y divide-gray-200">
               <li v-for="(lecture, idx) in section.lectures" :key="idx">
-                <div
-                  class="flex items-start p-4 transition-colors duration-200 hover:bg-gray-50"
-                  :class="{ 'text-purple-600': lecture.isPreviewable }"
-                >
+                <div class="flex items-center px-4 py-3 hover:bg-gray-100">
                   <svg
                     aria-hidden="true"
                     focusable="false"
-                    class="mt-1 mr-4 h-4 w-4 flex-shrink-0"
+                    class="h-4 w-4 flex-shrink-0 text-gray-400"
                   >
                     <use
                       :xlink:href="
@@ -86,28 +84,26 @@
                       "
                     ></use>
                   </svg>
-                  <div class="flex-1">
-                    <div class="flex justify-between">
-                      <div>
-                        <span v-if="!lecture.isPreviewable">
-                          {{ lecture.title }}
-                        </span>
-                        <button
-                          v-else
-                          type="button"
-                          class="text-purple-600 hover:text-purple-700"
-                        >
-                          <span>{{ lecture.title }}</span>
-                        </button>
-                      </div>
-                      <div class="hidden text-sm text-gray-500 md:block">
-                        <span
-                          v-if="lecture.isPreviewable"
-                          class="mr-2 text-purple-600"
-                          >Preview</span
-                        >
-                        <span>{{ lecture.duration }}</span>
-                      </div>
+                  <div class="ml-4 flex flex-1 items-center justify-between">
+                    <div>
+                      <span
+                        :class="{
+                          'text-purple-600 hover:text-purple-700':
+                            lecture.isPreviewable
+                        }"
+                        class="text-sm"
+                      >
+                        {{ lecture.title }}
+                      </span>
+                    </div>
+                    <div class="ml-4 flex items-center space-x-4 text-sm">
+                      <span
+                        v-if="lecture.isPreviewable"
+                        class="text-purple-600"
+                      >
+                        Preview
+                      </span>
+                      <span class="text-gray-500">{{ lecture.duration }}</span>
                     </div>
                   </div>
                 </div>
