@@ -54,6 +54,9 @@
 
         <!-- Reviews Section -->
         <CourseReviews :rating="4.7" :total-ratings="50" :reviews="reviews" />
+
+        <!-- More Courses Section -->
+        <MoreCourses />
       </div>
 
       <!-- Right Column - Course Card -->
@@ -98,6 +101,7 @@ import CourseDescription from './CourseDescription.vue'
 import CourseComparison from './CourseComparison.vue'
 import CourseInstructor from './CourseInstructor.vue'
 import CourseReviews from './CourseReviews.vue'
+import MoreCourses from './MoreCourses.vue'
 
 const requirements = [
   'Un qualsiasi dispositivo Computer o Smartphone che navighi online'
