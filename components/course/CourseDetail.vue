@@ -57,6 +57,9 @@
 
         <!-- More Courses Section -->
         <MoreCourses />
+
+        <!-- Report Abuse Section -->
+        <ReportAbuse />
       </div>
 
       <!-- Right Column - Course Card -->
@@ -102,6 +105,7 @@ import CourseComparison from './CourseComparison.vue'
 import CourseInstructor from './CourseInstructor.vue'
 import CourseReviews from './CourseReviews.vue'
 import MoreCourses from './MoreCourses.vue'
+import ReportAbuse from './ReportAbuse.vue'
 
 const requirements = [
   'Un qualsiasi dispositivo Computer o Smartphone che navighi online'
