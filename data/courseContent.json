@@ -1,0 +1,236 @@
+{
+    "totalSections": 13,
+    "totalLectures": 23,
+    "totalLength": "2h 7m",
+    "sections": [
+        {
+            "id": 1,
+            "title": "INTRODUZIONE A COINBASE Per Comprare BITCOIN",
+            "content": "4 lectures • 15min",
+            "lectures": [
+                {
+                    "title": "Introduzione",
+                    "duration": "04:31",
+                    "isPreviewable": true,
+                    "type": "video"
+                },
+                {
+                    "title": "IMPORTANTE Guarda Prima Di Andare Avanti, Grazie...",
+                    "duration": "01:37",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Invito Per Studenti Al Gruppo Telegram ACI69",
+                    "duration": "02:17",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Vantaggi Per Studenti ACI69",
+                    "duration": "06:31",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "COME CI SI REGISTRA GRATIS A COINBASE IN ITALIANO?",
+            "content": "2 lectures • 10min",
+            "lectures": [
+                {
+                    "title": "IMPORTANTE: Come Ti Registri Gratis Su Coinbase? Guardalo Passo Passo",
+                    "duration": "07:04",
+                    "isPreviewable": true,
+                    "type": "video"
+                },
+                {
+                    "title": "Documenti e Dati Richiesti Da Coinbase: Come Devi Fare?",
+                    "duration": "02:48",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "COINBASE EARN COME SI GUADAGNA E COME FUNZIONA?",
+            "content": "1 lecture • 9min",
+            "lectures": [
+                {
+                    "title": "Coinbase Earn Guadagna Bitcoin E Cripto Gratis Come Funziona?",
+                    "duration": "08:51",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "FUNZIONALITA' BASE COINBASE",
+            "content": "5 lectures • 38min",
+            "lectures": [
+                {
+                    "title": "Panoramica Delle Funzionalita Iniziali Di Coinbase",
+                    "duration": "04:45",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Cosa Vedrai Appena Entrato In Coinbase?",
+                    "duration": "06:23",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Bonifico SEPA Immediato Verso Coinbase Come Si Fa?",
+                    "duration": "17:07",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Carta Di Credito Visa Coinbase: Come Richiederla? Piano Di Accumulo Cryptovalute",
+                    "duration": "03:16",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "Acquisti Programmati E PAC Piani Di Accumulo Criptovalute:  Come Fare?",
+                    "duration": "06:42",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "COME SI ACQUISTANO BITCOIN E ALTRE CRIPTOVALUTE IN COINBASE?",
+            "content": "2 lectures • 9min",
+            "lectures": [
+                {
+                    "title": "Prepagate e Acquisto Cripto Con Conti Corrente: Come Si Fa Su CoinBase?",
+                    "duration": "03:28",
+                    "isPreviewable": false,
+                    "type": "video"
+                },
+                {
+                    "title": "La Scheda Prezzi E Tutte Le Sue Funzionalità",
+                    "duration": "05:52",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "COME SI INVIANO BITCOIN (E ALTRE CRIPTO) DA COINBASE AD ALTRI WALLET?",
+            "content": "1 lecture • 6min",
+            "lectures": [
+                {
+                    "title": "Come Trasferisci Cripto DA Coinbase A Wallet Esterni?",
+                    "duration": "06:02",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "COME SI RICEVONO BITCOIN (E ALTRE CRIPTO) SUL TUO WALLET COINBASE?",
+            "content": "1 lecture • 4min",
+            "lectures": [
+                {
+                    "title": "Come Ricevere Criptovalute Sul Tuo Wallet Coinbase?",
+                    "duration": "04:16",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "CASSAFORTE IN COINBASE: QUALI SONO VANTAGGI E SVANTAGGI?",
+            "content": "1 lecture • 4min",
+            "lectures": [
+                {
+                    "title": "CASSAFORTE in Coinbase: Vantaggi e Svantaggi",
+                    "duration": "04:16",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "NOTIFICHE SUI PREZZI IN COINBASE",
+            "content": "1 lecture • 2min",
+            "lectures": [
+                {
+                    "title": "Notifiche Sui Prezzi in Coinbase Cosa Sono e a Cosa Servono?",
+                    "duration": "02:17",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "APP MOBILE COINBASE E COME SI DISATTIVANO LE NOTIFICHE SULL'APP?",
+            "content": "1 lecture • 4min",
+            "lectures": [
+                {
+                    "title": "App Mobile Coinbase E Come Si Disattivano Le Notifiche Sull'App?",
+                    "duration": "04:25",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "ANCORA SU EARN (GUADAGNI)",
+            "content": "1 lecture • 8min",
+            "lectures": [
+                {
+                    "title": "Altri Guadagni con Coinbase Earn",
+                    "duration": "07:38",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "AIUTO ASSISTENZA E RISOLUZIONE PROBLEMI SU COINBASE",
+            "content": "1 lecture • 4min",
+            "lectures": [
+                {
+                    "title": "Come Contattare Assistenza Coinbase e Risolvere i Tuoi Problemi?",
+                    "duration": "04:13",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "NON PERDERE IL BONUS PER TE GUARDA",
+            "content": "2 lectures • 13min",
+            "lectures": [
+                {
+                    "title": "Bonus Apri",
+                    "duration": "01:47",
+                    "isPreviewable": false,
+                    "type": "article"
+                },
+                {
+                    "title": "Guarda Qui La Lezione Bonus Per Te",
+                    "duration": "11:02",
+                    "isPreviewable": false,
+                    "type": "video"
+                }
+            ]
+        }
+    ]
+}

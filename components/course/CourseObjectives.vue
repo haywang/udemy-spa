@@ -1,5 +1,5 @@
 <template>
-  <div class="m83 mb-8 rounded-lg bg-white p-6 shadow-sm">
+  <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
     <h2 class="mb-4 text-2xl font-bold">What you'll learn</h2>
     <div class="what-you-will-learn--content-spacing--6eP1j">
       <ul class="grid grid-cols-1 gap-4 md:grid-cols-2">

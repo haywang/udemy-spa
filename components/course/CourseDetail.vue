@@ -32,20 +32,10 @@
       <div class="lg:col-span-2">
         <!-- What you'll learn Section -->
         <CourseObjectives />
-
+        <!-- Topic Navigation Section -->
+        <TopicNavigation />
         <!-- Course Content Section -->
-        <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
-          <h2 class="mb-4 text-2xl font-bold">Course Content</h2>
-          <div class="rounded-lg border">
-            <div class="border-b p-4">
-              <div class="flex items-center justify-between">
-                <h3 class="font-semibold">Section 1: Introduction</h3>
-                <span class="text-gray-600">3 lectures • 45min</span>
-              </div>
-            </div>
-            <!-- Add more sections here -->
-          </div>
-        </div>
+        <CourseCurriculum />
 
         <!-- Requirements Section -->
         <div class="mb-8 rounded-lg bg-white p-6 shadow-sm">
@@ -104,6 +94,8 @@
 
 <script setup>
 import CourseObjectives from './CourseObjectives.vue'
+import TopicNavigation from './TopicNavigation.vue'
+import CourseCurriculum from './CourseCurriculum.vue'
 </script>
 
 <style scoped>
