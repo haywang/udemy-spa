@@ -1,18 +1,20 @@
 <template>
-  <div class="min-h-screen bg-gray-50">
+  <div class="flex min-h-screen flex-col bg-gray-50">
     <!-- Header -->
     <TheHeader />
 
     <!-- Main Content -->
-    <main>
+    <main class="flex-grow">
       <slot />
     </main>
 
-    <!-- Footer 可以后续添加 -->
+    <!-- Footer -->
+    <TheFooter />
   </div>
 </template>
 
 <script setup>
 import { defineComponent } from 'vue'
 import TheHeader from '~/components/layout/TheHeader.vue'
+import TheFooter from '~/components/layout/TheFooter.vue'
 </script>
