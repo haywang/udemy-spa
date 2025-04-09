@@ -2,7 +2,7 @@
   <div class="mb-8 border-t border-gray-200 pt-8">
     <button
       type="button"
-      class="w-full rounded-lg border border-gray-300 bg-white px-6 py-3 text-center font-semibold text-gray-700 transition-colors hover:bg-gray-50"
+      class="border-primary-200 text-primary-500 hover:bg-primary-50 w-full rounded-lg border bg-white px-6 py-3 text-center font-semibold transition-colors"
       @click="handleReportClick"
     >
       Report abuse
