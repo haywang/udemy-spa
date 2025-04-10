@@ -960,7 +960,7 @@
 
 <script setup></script>
 
-<style>
+<style scoped>
 @import '~/assets/css/common.css';
 
 .reviews-modal--reviews-modal--i7Ctg {

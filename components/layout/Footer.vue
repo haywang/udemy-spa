@@ -1837,4 +1837,8 @@ body.ud-main-content-ready .ud-footer-initially-hidden {
     --content-grid-column-count: 12;
   }
 }
+
+.footer-section-main {
+  padding-bottom: 8rem;
+}
 </style>

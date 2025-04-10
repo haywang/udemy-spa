@@ -34,8 +34,8 @@
                       <div
                         class="ribbon-module--ribbon--vVul- ud-heading-xs course-badges-module--subscription_badge--curVQ"
                         style="
-                          --ribbon-background-color: var(--color-gray-150);
-                          --ribbon-color: var(--color-gray-500);
+                          --ribbon-background-color: var(--color-purple-450);
+                          --ribbon-color: var(--color-knockout);
                         "
                       >
                         <svg
@@ -382,8 +382,8 @@
                       <div
                         class="ribbon-module--ribbon--vVul- ud-heading-xs course-badges-module--subscription_badge--curVQ"
                         style="
-                          --ribbon-background-color: var(--color-gray-150);
-                          --ribbon-color: var(--color-gray-500);
+                          --ribbon-background-color: var(--color-purple-450);
+                          --ribbon-color: var(--color-knockout);
                         "
                       >
                         <svg
@@ -559,8 +559,8 @@
                       <div
                         class="ribbon-module--ribbon--vVul- ud-heading-xs course-badges-module--subscription_badge--curVQ"
                         style="
-                          --ribbon-background-color: var(--color-gray-150);
-                          --ribbon-color: var(--color-gray-500);
+                          --ribbon-background-color: var(--color-purple-450);
+                          --ribbon-color: var(--color-knockout);
                         "
                       >
                         <svg
@@ -736,8 +736,8 @@
                       <div
                         class="ribbon-module--ribbon--vVul- ud-heading-xs course-badges-module--subscription_badge--curVQ"
                         style="
-                          --ribbon-background-color: var(--color-gray-150);
-                          --ribbon-color: var(--color-gray-500);
+                          --ribbon-background-color: var(--color-purple-450);
+                          --ribbon-color: var(--color-knockout);
                         "
                       >
                         <svg
@@ -1248,8 +1248,8 @@
                       <div
                         class="ribbon-module--ribbon--vVul- ud-heading-xs course-badges-module--subscription_badge--curVQ"
                         style="
-                          --ribbon-background-color: var(--color-gray-150);
-                          --ribbon-color: var(--color-gray-500);
+                          --ribbon-background-color: var(--color-purple-450);
+                          --ribbon-color: var(--color-knockout);
                         "
                       >
                         <svg
@@ -1429,7 +1429,7 @@
 
 <script setup></script>
 
-<style scoped>
+<style>
 @import '~/assets/css/common.css';
 .course-comparison-module--content-container--mt-Om {
   display: flex;

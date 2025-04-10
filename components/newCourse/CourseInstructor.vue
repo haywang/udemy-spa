@@ -198,7 +198,7 @@
 </template>
 
 <script setup></script>
-<style>
+<style scoped>
 @import '~/assets/css/common.css';
 
 .ud-block-list .ud-block-list-item {
@@ -286,5 +286,23 @@
 }
 .instructor--instructor--NQkYr .instructor--instructor__title--S9oZ4 {
   margin-bottom: 0.4rem;
+}
+
+.ud-avatar {
+  background: #1d1e27;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100rem;
+  object-fit: cover;
+  color: var(--color-white);
+}
+.ud-avatar-image {
+  background: transparent;
+  border: 1px solid #d1d2e0;
+}
+
+.styles--instructors__header--RUHJr {
+  margin: 0 0 1.6rem 0;
 }
 </style>
