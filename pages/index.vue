@@ -2,6 +2,11 @@
   <div class="paid-course-landing-page__container" id="main-content-anchor">
     <TopContainer />
     <SideBar />
+    <div class="paid-course-landing-page__body">
+      <div class="course-landing-page__main-content">
+        <Learn />
+      </div>
+    </div>
     <!-- 这里可以添加更多的课程内容部分 -->
     <!-- <div class="container mx-auto px-4 py-8">
       <CourseDetail />
@@ -12,7 +17,7 @@
 <script setup>
 import TopContainer from '~/components/newCourse/TopContainer.vue'
 import SideBar from '~/components/newCourse/SideBar.vue'
-
+import Learn from '~/components/newCourse/Learn.vue'
 definePageMeta({
   layout: 'default'
 })
