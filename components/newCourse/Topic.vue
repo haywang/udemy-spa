@@ -13,21 +13,21 @@
     >
       <li>
         <a
-          href="/topic/bitcoin/"
+          href="https://www.udemy.com/topic/bitcoin/"
           class="ud-btn ud-btn-small ud-btn-secondary ud-heading-sm link-group-module--item--MnRKX"
           ><span class="ud-btn-label">Bitcoin</span></a
         >
       </li>
       <li>
         <a
-          href="/courses/finance-and-accounting/cryptocurrency-and-blockchain/"
+          href="https://www.udemy.com/courses/finance-and-accounting/cryptocurrency-and-blockchain/"
           class="ud-btn ud-btn-small ud-btn-secondary ud-heading-sm link-group-module--item--MnRKX"
           ><span class="ud-btn-label">Cryptocurrency &amp; Blockchain</span></a
         >
       </li>
       <li>
         <a
-          href="/courses/finance-and-accounting/"
+          href="https://www.udemy.com/courses/finance-and-accounting/"
           class="ud-btn ud-btn-small ud-btn-secondary ud-heading-sm link-group-module--item--MnRKX"
           ><span class="ud-btn-label">Finance &amp; Accounting</span></a
         >

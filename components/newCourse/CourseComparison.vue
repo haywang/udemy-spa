@@ -24,7 +24,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/bitcoin-for-beginners/"
+                    href="https://www.udemy.com/course/bitcoin-for-beginners/"
                     target="_blank"
                     rel="noopener"
                     >Crypto Condensed: The Complete Guide To Bitcoin</a
@@ -164,7 +164,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/bitcoin-for-beginners/"
+                  href="https://www.udemy.com/course/bitcoin-for-beginners/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -201,7 +201,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/blockchain-and-bitcoin-fundamentals/"
+                    href="https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/"
                     target="_blank"
                     rel="noopener"
                     >Blockchain and Bitcoin Fundamentals</a
@@ -335,7 +335,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/blockchain-and-bitcoin-fundamentals/"
+                  href="https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -372,7 +372,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/bitcoin-advanced-level-transactions/"
+                    href="https://www.udemy.com/course/bitcoin-advanced-level-transactions/"
                     target="_blank"
                     rel="noopener"
                     >Bitcoin Advanced Level: Transactions</a
@@ -512,7 +512,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/bitcoin-advanced-level-transactions/"
+                  href="https://www.udemy.com/course/bitcoin-advanced-level-transactions/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -549,7 +549,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/bitcoin-and-cryptocurrency-bootcamp/"
+                    href="https://www.udemy.com/course/bitcoin-and-cryptocurrency-bootcamp/"
                     target="_blank"
                     rel="noopener"
                     >Bitcoin and Cryptocurrency Bootcamp</a
@@ -689,7 +689,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/bitcoin-and-cryptocurrency-bootcamp/"
+                  href="https://www.udemy.com/course/bitcoin-and-cryptocurrency-bootcamp/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -726,7 +726,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/bitcoin-and-crypto/"
+                    href="https://www.udemy.com/course/bitcoin-and-crypto/"
                     target="_blank"
                     rel="noopener"
                     >Introduction to Bitcoin &amp; Crypto Assets</a
@@ -866,7 +866,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/bitcoin-and-crypto/"
+                  href="https://www.udemy.com/course/bitcoin-and-crypto/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -903,7 +903,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/bitcoin-university/"
+                    href="https://www.udemy.com/course/bitcoin-university/"
                     target="_blank"
                     rel="noopener"
                     >Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi,
@@ -1030,7 +1030,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/bitcoin-university/"
+                  href="https://www.udemy.com/course/bitcoin-university/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -1067,7 +1067,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/understanding-bitcoin-and-blockchain-with-animations/"
+                    href="https://www.udemy.com/course/understanding-bitcoin-and-blockchain-with-animations/"
                     target="_blank"
                     rel="noopener"
                     >Fundamentals of bitcoin &amp; blockchain</a
@@ -1201,7 +1201,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/understanding-bitcoin-and-blockchain-with-animations/"
+                  href="https://www.udemy.com/course/understanding-bitcoin-and-blockchain-with-animations/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"
@@ -1238,7 +1238,7 @@
                 <div class="course-comparison-module--main-content--ylR3v">
                   <a
                     class="ud-heading-md course-comparison-module--course-title--bShIy"
-                    href="/course/understanding-bitcoin-the-complete-bitcoin-course/"
+                    href="https://www.udemy.com/course/understanding-bitcoin-the-complete-bitcoin-course/"
                     target="_blank"
                     rel="noopener"
                     >The Complete Bitcoin Investment Course</a
@@ -1378,7 +1378,7 @@
                 <a
                   class="course-comparison-module--whole-card-link--BATxF"
                   data-purpose="card-link"
-                  href="/course/understanding-bitcoin-the-complete-bitcoin-course/"
+                  href="https://www.udemy.com/course/understanding-bitcoin-the-complete-bitcoin-course/"
                   aria-hidden="true"
                   tabindex="-1"
                   target="_blank"

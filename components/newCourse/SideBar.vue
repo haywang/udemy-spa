@@ -399,7 +399,7 @@
               </p>
               <a
                 data-purpose="ufb-link-button"
-                href="/udemy-business/?locale=en_US&amp;path=request-demo-mx%2F&amp;ref=marketplace_control_finance-and-accounting&amp;utm_campaign=mx-hooks&amp;utm_content=clp&amp;utm_medium=referral&amp;utm_source=marketplace&amp;utm_term="
+                href="https://www.udemy.com/udemy-business/?locale=en_US&amp;path=request-demo-mx%2F&amp;ref=marketplace_control_finance-and-accounting&amp;utm_campaign=mx-hooks&amp;utm_content=clp&amp;utm_medium=referral&amp;utm_source=marketplace&amp;utm_term="
                 target="_blank"
                 class="ud-btn ud-btn-medium ud-btn-secondary ud-heading-sm buy-for-team--button--NTJfE"
                 ><span class="ud-btn-label">Try Udemy Business</span></a

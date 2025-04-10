@@ -10,7 +10,7 @@
           <a
             data-purpose="ufb-link"
             class="inverted-link"
-            href="/udemy-business/?locale=en_US&amp;path=request-demo-mx%2F&amp;ref=footer-ad"
+            href="https://www.udemy.com/udemy-business/?locale=en_US&amp;path=request-demo-mx%2F&amp;ref=footer-ad"
             target="_blank"
             rel="noopener"
             >Udemy Business</a
@@ -88,42 +88,42 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/aws-certifications/"
+                      href="https://www.udemy.com/browse/certification/aws-certifications/"
                       >Amazon Web Services (AWS) Certifications</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/six-sigma-certifications/"
+                      href="https://www.udemy.com/browse/certification/six-sigma-certifications/"
                       >Six Sigma Certifications</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/microsoft-certifications/"
+                      href="https://www.udemy.com/browse/certification/microsoft-certifications/"
                       >Microsoft Certifications</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/cisco-certifications/"
+                      href="https://www.udemy.com/browse/certification/cisco-certifications/"
                       >Cisco Certifications</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/tableau-certifications/"
+                      href="https://www.udemy.com/browse/certification/tableau-certifications/"
                       >Tableau Certifications</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/"
+                      href="https://www.udemy.com/browse/certification/"
                       >See all Certifications</a
                     >
                   </li>
@@ -159,29 +159,35 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/web-development/"
+                      href="https://www.udemy.com/topic/web-development/"
                       >Web Development</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/javascript/"
+                      href="https://www.udemy.com/topic/javascript/"
                       >JavaScript</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/react/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/react/"
                       >React JS</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/angular/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/angular/"
                       >Angular</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/java/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/java/"
                       >Java</a
                     >
                   </li>
@@ -217,35 +223,35 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/amazon-aws/"
+                      href="https://www.udemy.com/topic/amazon-aws/"
                       >Amazon AWS</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/aws-certified-cloud-practitioner/"
+                      href="https://www.udemy.com/topic/aws-certified-cloud-practitioner/"
                       >AWS Certified Cloud Practitioner</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/microsoft-az-900/"
+                      href="https://www.udemy.com/topic/microsoft-az-900/"
                       >AZ-900: Microsoft Azure Fundamentals</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/aws-certified-solutions-architect-associate/"
+                      href="https://www.udemy.com/topic/aws-certified-solutions-architect-associate/"
                       >AWS Certified Solutions Architect - Associate</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/kubernetes/"
+                      href="https://www.udemy.com/topic/kubernetes/"
                       >Kubernetes</a
                     >
                   </li>
@@ -281,35 +287,35 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/leadership/"
+                      href="https://www.udemy.com/topic/leadership/"
                       >Leadership</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/management-skills/"
+                      href="https://www.udemy.com/topic/management-skills/"
                       >Management Skills</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/project-management/"
+                      href="https://www.udemy.com/topic/project-management/"
                       >Project Management</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/personal-productivity/"
+                      href="https://www.udemy.com/topic/personal-productivity/"
                       >Personal Productivity</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/emotional-intelligence/"
+                      href="https://www.udemy.com/topic/emotional-intelligence/"
                       >Emotional Intelligence</a
                     >
                   </li>
@@ -345,42 +351,42 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/cybersecurity-certifications/"
+                      href="https://www.udemy.com/browse/certification/cybersecurity-certifications/"
                       >Cybersecurity Certification</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/project-management-certifications/"
+                      href="https://www.udemy.com/browse/certification/project-management-certifications/"
                       >Project Management Certification</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/cloud-certifications/"
+                      href="https://www.udemy.com/browse/certification/cloud-certifications/"
                       >Cloud Certification</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/data-analytics-certifications/"
+                      href="https://www.udemy.com/browse/certification/data-analytics-certifications/"
                       >Data Analytics Certification</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/hr-management-certifications/"
+                      href="https://www.udemy.com/browse/certification/hr-management-certifications/"
                       >HR Management Certification</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/browse/certification/"
+                      href="https://www.udemy.com/browse/certification/"
                       >See all Certifications</a
                     >
                   </li>
@@ -416,31 +422,35 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/data-science/"
+                      href="https://www.udemy.com/topic/data-science/"
                       >Data Science</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/python/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/python/"
                       >Python</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/machine-learning/"
+                      href="https://www.udemy.com/topic/machine-learning/"
                       >Machine Learning</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/chatgpt/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/chatgpt/"
                       >ChatGPT</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/deep-learning/"
+                      href="https://www.udemy.com/topic/deep-learning/"
                       >Deep Learning</a
                     >
                   </li>
@@ -476,33 +486,35 @@
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/communication-skills/"
+                      href="https://www.udemy.com/topic/communication-skills/"
                       >Communication Skills</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/presentation-skills/"
+                      href="https://www.udemy.com/topic/presentation-skills/"
                       >Presentation Skills</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/public-speaking/"
+                      href="https://www.udemy.com/topic/public-speaking/"
                       >Public Speaking</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/writing/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/writing/"
                       >Writing</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/powerpoint/"
+                      href="https://www.udemy.com/topic/powerpoint/"
                       >PowerPoint</a
                     >
                   </li>
@@ -536,33 +548,37 @@
                 </div>
                 <ul class="ud-unstyled-list link-column structured-links-list">
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/excel/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/excel/"
                       >Microsoft Excel</a
                     >
                   </li>
                   <li>
-                    <a class="link white-link ud-text-sm" href="/topic/sql/"
+                    <a
+                      class="link white-link ud-text-sm"
+                      href="https://www.udemy.com/topic/sql/"
                       >SQL</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/microsoft-power-bi/"
+                      href="https://www.udemy.com/topic/microsoft-power-bi/"
                       >Microsoft Power BI</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/data-analysis/"
+                      href="https://www.udemy.com/topic/data-analysis/"
                       >Data Analysis</a
                     >
                   </li>
                   <li>
                     <a
                       class="link white-link ud-text-sm"
-                      href="/topic/business-analysis/"
+                      href="https://www.udemy.com/topic/business-analysis/"
                       >Business Analysis</a
                     >
                   </li>
@@ -969,7 +985,7 @@
                     <li>
                       <a
                         class="link white-link ud-text-sm"
-                        href="/mobile/"
+                        href="https://www.udemy.com/mobile/"
                         target="_blank"
                         rel="noopener noreferrer"
                         >Get the app</a
@@ -978,7 +994,7 @@
                     <li>
                       <a
                         class="link white-link ud-text-sm"
-                        href="/teaching/?ref=teach_footer"
+                        href="https://www.udemy.com/teaching/?ref=teach_footer"
                         >Teach on Udemy</a
                       >
                     </li>
@@ -990,12 +1006,16 @@
                       >
                     </li>
                     <li>
-                      <a class="link white-link ud-text-sm" href="/affiliate/"
+                      <a
+                        class="link white-link ud-text-sm"
+                        href="https://www.udemy.com/affiliate/"
                         >Affiliate</a
                       >
                     </li>
                     <li>
-                      <a class="link white-link ud-text-sm" href="/support/"
+                      <a
+                        class="link white-link ud-text-sm"
+                        href="https://www.udemy.com/support/"
                         >Help and Support</a
                       >
                     </li>
@@ -1032,7 +1052,7 @@
                   >
                     <li>
                       <a
-                        href="/udemy-business/?locale=en_US&amp;mx_pg=clp-come-comprare-bitcoin-con-coinbase-tutorial-coinbase-come-funziona-ita&amp;path=%2F&amp;ref=footer"
+                        href="https://www.udemy.com/udemy-business/?locale=en_US&amp;mx_pg=clp-come-comprare-bitcoin-con-coinbase-tutorial-coinbase-come-funziona-ita&amp;path=%2F&amp;ref=footer"
                         class="link white-link ud-text-sm"
                         target="_blank"
                         rel="noopener"
@@ -1080,17 +1100,21 @@
                     <li>
                       <a
                         class="link white-link ud-text-sm"
-                        href="/terms/privacy/"
+                        href="https://www.udemy.com/terms/privacy/"
                         >Privacy policy</a
                       >
                     </li>
                     <li>
-                      <a class="link white-link ud-text-sm" href="/sitemap/"
+                      <a
+                        class="link white-link ud-text-sm"
+                        href="https://www.udemy.com/sitemap/"
                         >Sitemap</a
                       >
                     </li>
                     <li>
-                      <a class="link white-link ud-text-sm" href="/terms/"
+                      <a
+                        class="link white-link ud-text-sm"
+                        href="https://www.udemy.com/terms/"
                         >Terms</a
                       >
                     </li>
@@ -1108,7 +1132,9 @@
       <div class="bottom-container">
         <div class="logo-and-copyright-bottom">
           <div class="logo-container" data-testid="logo-container">
-            <a href="/" class="ud-btn ud-btn-medium ud-btn-link ud-heading-sm"
+            <a
+              href="https://www.udemy.com/"
+              class="ud-btn ud-btn-medium ud-btn-link ud-heading-sm"
               ><img
                 src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEzIDgwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zMy4wNTkgMTkuMDg4TDE2LjUyOCA5LjU0NCAwIDE5LjA4OFY5LjU0NEwxNi41MyAwbDE2LjUzMSA5LjU0NHY5LjU0NGgtLjAwMnoiIGZpbGw9IiNBNDM1RjAiLz48cGF0aCBkPSJNMCAyNy4xMDFoOC42NTlWNDguMTRjMCA1LjQzNyA0LjA1OCA4LjA4NSA3Ljg3MiA4LjA4NSAzLjg0MiAwIDcuODcyLTIuNzIgNy44NzItOC4xNTdWMjcuMWg4LjY1OFY0OC42NGMwIDUuMDA4LTEuNTczIDguODcyLTQuNzIyIDExLjUyLTMuMTUgMi42NDgtNy4wODYgMy45MzYtMTEuODggMy45MzYtNC43OTUgMC04LjczMS0xLjI4OC0xMS44MDgtMy45MzZDMS41NzMgNTcuNTEyIDAgNTMuNzkyIDAgNDguODUzVjI3LjEwMXpNMTA3LjkyIDUzLjI0OGMtMi42MjEgMi4zMzMtNS42MDggMy40NzctOS4wMTMgMy40NzctNi4yMDggMC0xMC4zNzYtMy41MzgtMTAuODQ2LTkuMDE4aDI3Ljk3OXMuMTg0LTEuNzcxLjE4NC0zLjQzMmMwLTUuMTUyLTEuNjQ1LTkuNDQ2LTUuMDA4LTEyLjk1Mi0zLjI5MS0zLjUwNy03LjU4NC01LjIyNC0xMi44MDgtNS4yMjQtNS41MSAwLTEwLjAxOSAxLjcxNy0xMy41OTcgNS4yMjQtMy41MDcgMy41MDYtNS4yOTYgOC4wODUtNS4yOTYgMTMuODF2LjI4NmMwIDUuNjUzIDEuNzg5IDEwLjE2IDUuMjk2IDEzLjUyNSAzLjUwNiAzLjM2MyA4LjE1NyA1LjA4IDEzLjgxIDUuMDggNi41NzQgMCAxMS44MDYtMi41OTIgMTUuNzMxLTcuMDY0bC02LjQzMi0zLjcxMnptLTE2LjQ1Ni0xNy41NmMxLjkzLTEuNTA0IDQuMjkzLTIuMjkgNi45NDEtMi4yOSAyLjUwNCAwIDQuNTc5Ljc4NiA2LjM2OCAyLjM2MiAxLjcxIDEuNDM1IDIuNjMyIDMuMTk3IDIuNzEyIDUuMjI0SDg4LjI4Yy4yNzctMi4wOTMgMS4zMzYtMy44NTkgMy4xODQtNS4yOTZ6TTE5NS4wODUgNjguODg1QzE5MS41NjggNzcuMTggMTg3Ljg5MyA4MCAxODIuMjU5IDgwaC0zLjkwNHYtNy42NzVoMy4xNTdjMS45MzkgMCAzLjc0MS0uNzI4IDUuNDU5LTQuNjkzbDEuNzE3LTMuOTY1TDE3My44NzUgMjcuMWg4LjgwMmwxMC41MiAyNi4zMzRMMjA0LjAwMyAyNy4xaDguODAyYy0uMDAyIDAtMTQuMTAxIDMzLjI0OC0xNy43MiA0MS43ODR6TTY2Ljc3IDEzLjI5djE3LjA3OGMtMi44MzctMi41NDQtNy4yNS00LjA1Ni0xMS41Mi00LjA1Ni01LjA4IDAtOS4zNzMgMS43OS0xMi44OCA1LjQzNy0zLjQzNCAzLjU3OS01LjE1MSA4LjAxNC01LjE1MSAxMy4zODJzMS43MTcgOS44MDIgNS4xNTIgMTMuNDUzYzMuNTA2IDMuNTc5IDcuOCA1LjM2OCAxMi44OCA1LjM2OCA1Ljg2MSAwIDkuNTYyLTIuMzAxIDExLjUyLTQuMTA3djMuMzJoOC41ODZWMTMuMjkxaC04LjU4NnptLTIuNTc1IDM5LjcxNWMtMi4wNzUgMi4wNzUtNC43MjMgMy4xNS03LjggMy4xNS0zLjA3OCAwLTUuNTgyLTEuMDc1LTcuNjU2LTMuMTUtMi4wMDMtMi4wNzQtMy4wMDYtNC43MjItMy4wMDYtNy44NzIgMC0zLjE0OSAxLjAwMy01Ljc5NyAzLjAwNi03Ljg3MiAyLjA3NC0yLjA3NCA0LjU3OC0zLjE0OSA3LjY1Ni0zLjE0OSAzLjA3NyAwIDUuNzI1IDEuMDc1IDcuOCAzLjE1IDIuMTQ2IDIuMDc0IDMuMjIxIDQuNzIyIDMuMjIxIDcuODcxIDAgMy4xNS0xLjA3NSA1Ljc5OC0zLjIyMSA3Ljg3MnpNMTYwLjUyNSAyNi4zODdjLTYuNTIyIDAtOS45MTQgMi43MDYtMTIuMjM3IDUuMzEyLS45MjgtMS43NzEtMy41NDQtNS4zMTItOS42NTktNS4zMTItNS4xNjUgMC04LjIxMyAyLjYxLTkuNzMgNC40NzJ2LTMuNzU1aC04LjUxNXYzNi4wNjRoOC41MTVWNDIuNDE2YzAtNC44NjcgMy4wMDUtOC4zNzMgNy4wMTMtOC4zNzMgNC4wOCAwIDYuNDQgMy4wNzcgNi40NCA4LjAxM3YyMS4xMWg4LjUxNVY0Mi40MTJjMC00LjkzOCAyLjkzMy04LjM3MyA3LjE1NC04LjM3MyA0LjA4IDAgNi40NCAzLjA3NyA2LjQ0IDguMDEzdjIxLjExaDguNTg3VjQwLjgzN2MwLTkuNDAyLTUuMDUzLTE0LjQ1LTEyLjUyMy0xNC40NXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4K"
                 alt="Udemy"

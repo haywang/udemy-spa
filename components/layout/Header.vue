@@ -21,7 +21,7 @@
       >
     </nav>
     <a
-      href="/"
+      href="https://www.udemy.com/"
       class="desktop-header-module--flex-middle--k0Teb desktop-header-module--logo--AwnFF"
       ><img
         src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTEgMzQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE0LjA1IDguMTEyTDcuMDI0IDQuMDU2IDAgOC4xMTJWNC4wNTZMNy4wMjUgMGw3LjAyNiA0LjA1NnY0LjA1NmgtLjAwMXoiIGZpbGw9IiNBNDM1RjAiLz48cGF0aCBkPSJNMCAxMS41MThoMy42OHY4Ljk0MWMwIDIuMzEgMS43MjUgMy40MzYgMy4zNDUgMy40MzYgMS42MzQgMCAzLjM0Ni0xLjE1NiAzLjM0Ni0zLjQ2N3YtOC45MWgzLjY4djkuMTU0YzAgMi4xMjgtLjY2OSAzLjc3LTIuMDA3IDQuODk2LTEuMzM5IDEuMTI1LTMuMDExIDEuNjczLTUuMDUgMS42NzMtMi4wMzcgMC0zLjcxLS41NDctNS4wMTctMS42NzNDLjY2OSAyNC40NDMgMCAyMi44NjIgMCAyMC43NjN2LTkuMjQ1ek00NS44NjYgMjIuNjNjLTEuMTE0Ljk5Mi0yLjM4MyAxLjQ3OC0zLjgzIDEuNDc4LTIuNjQgMC00LjQxLTEuNTA0LTQuNjEtMy44MzNoMTEuODlzLjA4LS43NTIuMDgtMS40NThjMC0yLjE5LS43LTQuMDE1LTIuMTMtNS41MDUtMS4zOTgtMS40OS0zLjIyMi0yLjIyLTUuNDQzLTIuMjItMi4zNDEgMC00LjI1OC43My01Ljc3OSAyLjIyLTEuNDkgMS40OS0yLjI1IDMuNDM2LTIuMjUgNS44N3YuMTJjMCAyLjQwMy43NiA0LjMxOSAyLjI1IDUuNzQ5IDEuNDkgMS40MjkgMy40NjcgMi4xNTkgNS44NyAyLjE1OSAyLjc5NCAwIDUuMDE3LTEuMTAyIDYuNjg1LTMuMDAybC0yLjczMy0xLjU3OHptLTYuOTk0LTcuNDYzYy44Mi0uNjM5IDEuODI1LS45NzMgMi45NS0uOTczIDEuMDY0IDAgMS45NDYuMzM0IDIuNzA3IDEuMDA0LjcyNi42MSAxLjExOCAxLjM1OSAxLjE1MiAyLjIySDM3LjUyYy4xMTgtLjg5LjU2OC0xLjY0IDEuMzUzLTIuMjV6TTgyLjkxIDI5LjI3NkM4MS40MTcgMzIuODAxIDc5Ljg1NSAzNCA3Ny40NiAzNEg3NS44di0zLjI2MmgxLjM0MmMuODI0IDAgMS41OS0uMzEgMi4zMi0xLjk5NGwuNzMtMS42ODYtNi4yOTYtMTUuNTRoMy43NDFsNC40NzEgMTEuMTkyIDQuNTkzLTExLjE5MmgzLjc0bC03LjUzIDE3Ljc1OHpNMjguMzc3IDUuNjQ5djcuMjU3Yy0xLjIwNi0xLjA4LTMuMDgyLTEuNzIzLTQuODk2LTEuNzIzLTIuMTYgMC0zLjk4NC43Ni01LjQ3NCAyLjMxLTEuNDYgMS41MjEtMi4xOSAzLjQwNi0yLjE5IDUuNjg3IDAgMi4yODIuNzMgNC4xNjcgMi4xOSA1LjcxOCAxLjQ5IDEuNTIxIDMuMzE1IDIuMjgyIDUuNDc0IDIuMjgyIDIuNDkgMCA0LjA2NC0uOTc5IDQuODk2LTEuNzQ2djEuNDExaDMuNjVWNS42NWgtMy42NXptLTEuMDk1IDE2Ljg3OGMtLjg4Mi44ODItMi4wMDcgMS4zMzktMy4zMTUgMS4zMzktMS4zMDggMC0yLjM3Mi0uNDU3LTMuMjU0LTEuMzM5LS44NS0uODgyLTEuMjc3LTIuMDA3LTEuMjc3LTMuMzQ1IDAtMS4zMzkuNDI2LTIuNDY0IDEuMjc3LTMuMzQ2Ljg4Mi0uODgyIDEuOTQ2LTEuMzM4IDMuMjU0LTEuMzM4czIuNDMzLjQ1NiAzLjMxNSAxLjMzOGMuOTEyLjg4MiAxLjM3IDIuMDA3IDEuMzcgMy4zNDYgMCAxLjMzOC0uNDU4IDIuNDYzLTEuMzcgMy4zNDV6TTY4LjIyMiAxMS4yMTRjLTIuNzcyIDAtNC4yMTMgMS4xNS01LjIgMi4yNTgtLjM5NS0uNzUzLTEuNTA3LTIuMjU4LTQuMTA1LTIuMjU4LTIuMTk2IDAtMy40OSAxLjExLTQuMTM2IDEuOVYxMS41MmgtMy42MTh2MTUuMzI3aDMuNjE4di04LjgyYzAtMi4wNjggMS4yNzgtMy41NTggMi45OC0zLjU1OCAxLjczNSAwIDIuNzM4IDEuMzA4IDIuNzM4IDMuNDA2djguOTcxaDMuNjE5di04LjgyYzAtMi4wOTggMS4yNDYtMy41NTggMy4wNC0zLjU1OCAxLjczNCAwIDIuNzM3IDEuMzA4IDIuNzM3IDMuNDA1djguOTcyaDMuNjV2LTkuNDg4YzAtMy45OTYtMi4xNDgtNi4xNDItNS4zMjMtNi4xNDJ6IiBmaWxsPSIjMDAwIi8+PC9zdmc+Cg=="
@@ -75,7 +75,7 @@
                   >
                     <li>
                       <a
-                        href="/browse/certification/"
+                        href="https://www.udemy.com/browse/certification/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-certification_preparation-0"
                         data-id="0"
@@ -98,7 +98,7 @@
                   >
                     <li>
                       <a
-                        href="/courses/development/"
+                        href="https://www.udemy.com/courses/development/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-288"
                         data-id="288"
@@ -117,7 +117,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/business/"
+                        href="https://www.udemy.com/courses/business/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-268"
                         data-id="268"
@@ -134,7 +134,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/finance-and-accounting/"
+                        href="https://www.udemy.com/courses/finance-and-accounting/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-328"
                         data-id="328"
@@ -153,7 +153,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/it-and-software/"
+                        href="https://www.udemy.com/courses/it-and-software/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-294"
                         data-id="294"
@@ -172,7 +172,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/office-productivity/"
+                        href="https://www.udemy.com/courses/office-productivity/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-292"
                         data-id="292"
@@ -191,7 +191,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/personal-development/"
+                        href="https://www.udemy.com/courses/personal-development/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-296"
                         data-id="296"
@@ -210,7 +210,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/design/"
+                        href="https://www.udemy.com/courses/design/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-269"
                         data-id="269"
@@ -227,7 +227,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/marketing/"
+                        href="https://www.udemy.com/courses/marketing/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-290"
                         data-id="290"
@@ -244,7 +244,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/lifestyle/"
+                        href="https://www.udemy.com/courses/lifestyle/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-274"
                         data-id="274"
@@ -261,7 +261,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/photography-and-video/"
+                        href="https://www.udemy.com/courses/photography-and-video/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-273"
                         data-id="273"
@@ -280,7 +280,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/health-and-fitness/"
+                        href="https://www.udemy.com/courses/health-and-fitness/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-276"
                         data-id="276"
@@ -299,7 +299,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/music/"
+                        href="https://www.udemy.com/courses/music/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-278"
                         data-id="278"
@@ -316,7 +316,7 @@
                     </li>
                     <li>
                       <a
-                        href="/courses/teaching-and-academics/"
+                        href="https://www.udemy.com/courses/teaching-and-academics/"
                         data-testid="browse-nav-item"
                         id="header-browse-nav-category-300"
                         data-id="300"
@@ -416,7 +416,7 @@
     >
       <a
         data-purpose="try-ufb-dropdown-trigger"
-        href="/udemy-business/?locale=en_US&amp;mx_pg=httpcachecontextsme-list&amp;path=request-demo-mx%2F&amp;ref=ufb_header"
+        href="https://www.udemy.com/udemy-business/?locale=en_US&amp;mx_pg=httpcachecontextsme-list&amp;path=request-demo-mx%2F&amp;ref=ufb_header"
         target="_blank"
         rel="noopener"
         id="u125-popper-trigger--12"
@@ -454,7 +454,7 @@
                   </div>
                   <a
                     data-purpose="try-ufb-button"
-                    href="/udemy-business/?locale=en_US&amp;mx_pg=httpcachecontextsme-list&amp;path=request-demo-mx%2F&amp;ref=ufb_header"
+                    href="https://www.udemy.com/udemy-business/?locale=en_US&amp;mx_pg=httpcachecontextsme-list&amp;path=request-demo-mx%2F&amp;ref=ufb_header"
                     class="ud-btn ud-btn-medium ud-btn-primary ud-heading-sm panel-menu-module--cta--G-aTQ"
                     target="_blank"
                     rel="noopener"
@@ -519,7 +519,7 @@
     </div>
     <div class="popper-module--popper--mM5Ie">
       <a
-        href="/cart/"
+        href="https://www.udemy.com/cart/"
         data-testid="cart-icon"
         id="u125-popper-trigger--16"
         aria-expanded="false"

@@ -7,7 +7,9 @@
           data-purpose="safely-set-inner-html:more-courses-by-instructor:more-courses-link"
         >
           More Courses by
-          <a href="/user/leonardo-ok/">ACI69 | Trading ™</a>
+          <a href="https://www.udemy.com/user/leonardo-ok/"
+            >ACI69 | Trading ™</a
+          >
         </h2>
         <section
           aria-label="Carousel"
@@ -26,7 +28,7 @@
                 <link
                   data-testid="view-prefetch"
                   rel="prefetch"
-                  href="/course/amazon-power-how-to-get-free-products-for-life-for-free-deals-coupon/"
+                  href="https://www.udemy.com/course/amazon-power-how-to-get-free-products-for-life-for-free-deals-coupon/"
                   as="document"
                 />
                 <div
@@ -53,7 +55,7 @@
                           class="ud-heading-md course-card-title-module--course-title--wmFXN"
                         >
                           <a
-                            href="/course/amazon-power-how-to-get-free-products-for-life-for-free-deals-coupon/"
+                            href="https://www.udemy.com/course/amazon-power-how-to-get-free-products-for-life-for-free-deals-coupon/"
                             target="_blank"
                             rel="noopener"
                             >Amazon Power: How To Get Free Products Online?
@@ -266,7 +268,7 @@
                 <link
                   data-testid="view-prefetch"
                   rel="prefetch"
-                  href="/course/bitcoin-trading-bot-strong-and-easy-robot-crypto-bot-btc-money-machine/"
+                  href="https://www.udemy.com/course/bitcoin-trading-bot-strong-and-easy-robot-crypto-bot-btc-money-machine/"
                   as="document"
                 />
                 <div
@@ -293,7 +295,7 @@
                           class="ud-heading-md course-card-title-module--course-title--wmFXN"
                         >
                           <a
-                            href="/course/bitcoin-trading-bot-strong-and-easy-robot-crypto-bot-btc-money-machine/"
+                            href="https://www.udemy.com/course/bitcoin-trading-bot-strong-and-easy-robot-crypto-bot-btc-money-machine/"
                             target="_blank"
                             rel="noopener"
                             >Bitcoin Trading Bot Robot Strong and Easy Money
@@ -507,7 +509,7 @@
                 <link
                   data-testid="view-prefetch"
                   rel="prefetch"
-                  href="/course/bitcoin-corso-di-trading-online-semplice-indicatori-btc-criptovalute/"
+                  href="https://www.udemy.com/course/bitcoin-corso-di-trading-online-semplice-indicatori-btc-criptovalute/"
                   as="document"
                 />
                 <div
@@ -534,7 +536,7 @@
                           class="ud-heading-md course-card-title-module--course-title--wmFXN"
                         >
                           <a
-                            href="/course/bitcoin-corso-di-trading-online-semplice-indicatori-btc-criptovalute/"
+                            href="https://www.udemy.com/course/bitcoin-corso-di-trading-online-semplice-indicatori-btc-criptovalute/"
                             target="_blank"
                             rel="noopener"
                             >Bitcoin corso di TRADING Semplice™ Parte 1 con

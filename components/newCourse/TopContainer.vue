@@ -8,7 +8,9 @@
           <div
             class="topic-menu topic-menu--topic-menu--Cgol5 topic-menu-condensed ud-breadcrumb"
           >
-            <a class="ud-heading-sm" href="/courses/finance-and-accounting/"
+            <a
+              class="ud-heading-sm"
+              href="https://www.udemy.com/courses/finance-and-accounting/"
               >Finance &amp; Accounting</a
             ><svg
               aria-hidden="true"
@@ -18,7 +20,7 @@
               <use xlink:href="#icon-next"></use></svg
             ><a
               class="ud-heading-sm"
-              href="/courses/finance-and-accounting/cryptocurrency-and-blockchain/"
+              href="https://www.udemy.com/courses/finance-and-accounting/cryptocurrency-and-blockchain/"
               >Cryptocurrency &amp; Blockchain</a
             ><svg
               aria-hidden="true"
@@ -26,7 +28,11 @@
               class="ud-icon ud-icon-xsmall ud-icon-color-neutral ud-breadcrumb-icon"
             >
               <use xlink:href="#icon-next"></use></svg
-            ><a class="ud-heading-sm" href="/topic/bitcoin/">Bitcoin</a>
+            ><a
+              class="ud-heading-sm"
+              href="https://www.udemy.com/topic/bitcoin/"
+              >Bitcoin</a
+            >
           </div>
         </div>
         <div class="course-landing-page__introduction-asset__main" v-if="false">
