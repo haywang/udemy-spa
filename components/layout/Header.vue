@@ -404,7 +404,6 @@
       <a
         data-purpose="plans-and-pricing-page-link"
         data-testid="plans-and-pricing-page-link"
-        href="/pricing"
         class="ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm js-header-button desktop-header-module--dropdown-button--ipas9"
         ><span
           class="ud-text-sm desktop-header-module--dropdown-button-text--Sq73l"
@@ -472,7 +471,6 @@
       class="popper-module--popper--mM5Ie desktop-header-module--gap-button--4drhI desktop-header-module--group-a-logged-out-variant--KtpQg"
     >
       <a
-        href="/teaching/?ref=teach_header"
         data-purpose="instructor-dropdown"
         data-testid="teach-on-udemy-link"
         id="u125-popper-trigger--14"
@@ -508,7 +506,6 @@
                     around the world.
                   </div>
                   <a
-                    href="/teaching/?ref=teach_header"
                     class="ud-btn ud-btn-medium ud-btn-primary ud-heading-sm panel-menu-module--cta--G-aTQ"
                     data-testid="learn-more-link"
                     ><span class="ud-btn-label">Learn more</span></a
