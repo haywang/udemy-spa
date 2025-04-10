@@ -498,7 +498,6 @@
           <div
             class="slider-menu--show-transactional-cta-container--82S2m"
             data-purpose="transactional-cta-container"
-            style="display: none"
           >
             <div class="slider-menu--transactional-cta-ctas--uL9-W">
               <div class="slider-menu--price-text-container--y9MV-">
