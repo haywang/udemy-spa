@@ -5,11 +5,20 @@ export default defineNuxtConfig({
 
   // 启用组件自动导入
   components: {
+    global: true,
     dirs: [
-      '~/components',
-      '~/components/layout',
-      '~/components/course',
-      '~/components/market'
+      {
+        path: '~/components',
+        pathPrefix: false
+      },
+      {
+        path: '~/components/layout',
+        pathPrefix: false
+      },
+      {
+        path: '~/components/market',
+        pathPrefix: false
+      }
     ]
   },
 
@@ -27,6 +36,14 @@ export default defineNuxtConfig({
   // vite: {
   //   plugins: [tailwindcss()]
   // },
+
+  // 预渲染配置
+  nitro: {
+    prerender: {
+      failOnError: false,
+      crawlLinks: false
+    }
+  },
 
   // 应用配置
   app: {
