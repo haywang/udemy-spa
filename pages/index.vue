@@ -10,6 +10,7 @@
         <CourseRequirement />
         <CourseDescription />
         <CourseComparison />
+        <CourseInstructor />
       </div>
     </div>
     <!-- 这里可以添加更多的课程内容部分 -->
@@ -28,6 +29,7 @@ import CourseCurriculum from '~/components/newCourse/CourseCurriculum.vue'
 import CourseRequirement from '~/components/newCourse/CourseRequirement.vue'
 import CourseDescription from '~/components/newCourse/CourseDescription.vue'
 import CourseComparison from '~/components/newCourse/CourseComparison.vue'
+import CourseInstructor from '~/components/newCourse/CourseInstructor.vue'
 definePageMeta({
   layout: 'default'
 })
