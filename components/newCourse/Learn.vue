@@ -112,4 +112,8 @@
     width: calc(50% - (2.4rem / 2));
   }
 }
+
+.component-margin {
+  margin-bottom: 3.2rem;
+}
 </style>

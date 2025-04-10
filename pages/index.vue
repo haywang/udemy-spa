@@ -5,6 +5,7 @@
     <div class="paid-course-landing-page__body">
       <div class="course-landing-page__main-content">
         <Learn />
+        <Topic />
       </div>
     </div>
     <!-- 这里可以添加更多的课程内容部分 -->
@@ -18,6 +19,7 @@
 import TopContainer from '~/components/newCourse/TopContainer.vue'
 import SideBar from '~/components/newCourse/SideBar.vue'
 import Learn from '~/components/newCourse/Learn.vue'
+import Topic from '~/components/newCourse/Topic.vue'
 definePageMeta({
   layout: 'default'
 })
