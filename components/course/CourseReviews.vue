@@ -287,10 +287,6 @@ const getInitials = (name) => {
 }
 </script>
 
-<style scoped>
-.component-margin {
-  margin-bottom: 3.2rem;
-}
-
-/* Add any additional custom styles here */
+<style>
+@import '~/assets/css/common.css';
 </style>

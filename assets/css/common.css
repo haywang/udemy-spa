@@ -1057,3 +1057,11 @@ body.ud-keyboard-navigation-in-use
 .ud-form-group-error textarea:not(:focus) {
   border-color: #d51c0f;
 }
+
+.component-border {
+  border-top: 1px solid #d1d2e0;
+  padding: 1.6rem 0;
+}
+.component-margin {
+  margin-bottom: 3.2rem;
+}
