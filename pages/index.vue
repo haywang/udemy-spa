@@ -7,6 +7,7 @@
         <Learn />
         <Topic />
         <CourseCurriculum />
+        <CourseRequirement />
       </div>
     </div>
     <!-- 这里可以添加更多的课程内容部分 -->
@@ -22,6 +23,7 @@ import SideBar from '~/components/newCourse/SideBar.vue'
 import Learn from '~/components/newCourse/Learn.vue'
 import Topic from '~/components/newCourse/Topic.vue'
 import CourseCurriculum from '~/components/newCourse/CourseCurriculum.vue'
+import CourseRequirement from '~/components/newCourse/CourseRequirement.vue'
 definePageMeta({
   layout: 'default'
 })
