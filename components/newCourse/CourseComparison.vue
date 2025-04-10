@@ -1429,7 +1429,7 @@
 
 <script setup></script>
 
-<style>
+<style scoped>
 @import '~/assets/css/common.css';
 .course-comparison-module--content-container--mt-Om {
   display: flex;
@@ -1582,5 +1582,31 @@
   .course-comparison-module--course-badges--lkggs {
     margin-bottom: 0.4rem;
   }
+}
+
+.course-badges-module--subscription_badge--curVQ {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  background-color: var(--color-purple-450);
+  color: var(--color-knockout);
+}
+
+.ribbon-module--ribbon--vVul- {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 0.8rem;
+  white-space: nowrap;
+  background-color: var(--ribbon-background-color);
+  color: var(--ribbon-color);
+  border-radius: 0.4rem;
+}
+.ribbon-module--ribbon--vVul- .ud-icon {
+  margin-right: 0.4rem;
+}
+.ribbon-module--large--71Jwm {
+  padding: 0.8rem;
+}
+.ribbon-module--ribbon--vVul- + .ribbon-module--ribbon--vVul-:not(.ud-badge) {
+  margin-left: 0.8rem;
 }
 </style>

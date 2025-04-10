@@ -38,7 +38,7 @@
 
 <script setup></script>
 
-<style>
+<style scoped>
 @import '~/assets/css/common.css';
 .topic-navigation-module--title--HkSbi {
   margin-bottom: 1.6rem;
